@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "work_id":0, 
+            "title": "TransformerGAN",
+            "lables":["machine learning", "transformer", "GAN", "music", "generating AI"],
+            "introduction":"利用Transformer 對序列前後的相關性學習能力結合GAN(Generative adversarial network)的生成能力讓模型能夠隨機生成音樂。",
+            "link":"https://github.com/BoChangWu/Generating_Music"
+        },
+        {
+            "work_id":1, 
+            "title": "House Price Prediction",
+            "lables":["machine learning", "regression", "data analysis", "finance"],
+            "introduction":"這是一個永豐舉辦的AI競賽-'永豐AI GO競賽-攻房戰'，永豐提供匿名的實價登錄資料作為訓練和測試資料，前一個月提供測試用的測試資料給參賽者研究，後一個月提供正式比賽所用的資料進行預測，比賽評審方式利用MAPE進行評測。",
+            "link":"https://github.com/BoChangWu/HousePricePrediction"
+        },
+        {
+            "work_id":2, 
+            "title": "FinanceAI",
+            "lables":["machine learning", "Q-learning", "data analysis", "finance"],
+            "introduction":"利用Q-Learning模型代替人為的交易策略進行股票交易，人為操作可能存在某些不確定因素使得交易策略失敗，若機器人交易能避免人為疏失的狀況，那麼它更適合進行交易，且機器學習模型可以透過考慮目前的情況調整交易策略的參數。",
+            "link":"https://github.com/BoChangWu/FinanceAI"
+        },
+        {
+            "work_id":3, 
+            "title": "Diffusion",
+            "lables":["machine learning", "Diffusion", "generative AI", "AI image generator"],
+            "introduction":"訓練Diffusion模型生成寵物貓狗的圖片。",
+            "link":"https://github.com/BoChangWu/DiffusionModel"
+        }
+    ]
+}
