@@ -26,7 +26,7 @@
             "title": "Diffusion",
             "lables":["machine learning", "Diffusion", "generative AI", "AI image generator"],
             "introduction":"訓練Diffusion模型生成寵物貓狗的圖片。",
-            "link":"https://github.com/BoChangWu/DiffusionModel"
+            "link":"https://github.com/BoChangWu/Diffusion"
         }
     ]
 }
